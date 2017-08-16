@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "viacore-lib": "^0.13.7",
-    "viacore-message": "^1.0.1",
+    "viacore-lib": "^0.14.1",
+    "viacore-message": "^1.0.3",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
