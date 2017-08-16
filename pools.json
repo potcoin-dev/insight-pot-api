@@ -1,242 +1,431 @@
+
 [
-  {
-    "poolName": "50BTC",
-    "url": "https://50btc.com/",
-    "searchStrings": [
-      "50BTC.com",
-      "50btc.com"
-    ]
-  },
-  {
-    "poolName": "175btc",
-    "url": "http://www.175btc.com/",
-    "searchStrings": [
-      "Mined By 175btc.com"
-    ]
-  },
-  {
-    "poolName": "ASICminer",
-    "url": "https://bitcointalk.org/index.php?topic=99497.0",
-    "searchStrings": [
-      "Mined By ASICMiner"
-    ]
-  },
-  {
-    "poolName": "AntMiner",
-    "url": "https://bitmaintech.com/",
-    "searchStrings": [
-      "AntPool"
-    ]
-  },
-  {
-    "poolName": "agentD",
-    "url": "http://",
-    "searchStrings": [
-      "agentD"
-    ]
-  },
-  {
-    "poolName": "Bitfury",
-    "url": "http://bitfury.org/",
-    "searchStrings": [
-      "2av0id51pct"
-    ]
-  },
-  {
-    "poolName": "BitMinter",
-    "url": "https://bitminter.com/",
-    "searchStrings": [
-      "BitMinter"
-    ]
-  },
-  {
-    "poolName": "Bitparking",
-    "url": "http://bitparking.com/",
-    "searchStrings": [
-      "bitparking"
-    ]
-  },
-  {
-    "poolName": "BTC Guild",
-    "url": "https://www.btcguild.com/",
-    "searchStrings": [
-      "Mined by BTC Guild",
-      "BTC Guild"
-    ]
-  },
-  {
-    "poolName": "bcpool.io",
-    "url": "https://bcpool.io/",
-    "searchStrings": [
-      "bcpool"
-    ]
-  },
-  {
-    "poolName": "Discus Fish",
-    "url": "http://f2pool.com/",
-    "searchStrings": [
-      "七彩神仙鱼",
-      "Made in China",
-      "Mined by user"
-    ]
-  },
-  {
-    "poolName": "Discus Fish Solo",
-    "url": "http://f2pool.com/",
-    "searchStrings": [
-      "For Pierce and Paul"
-    ]
-  },
-  {
-    "poolName": "Cointerra",
-    "url": "http://cointerra.com/",
-    "searchStrings": [
-      "cointerra"
-    ]
-  },
-  {
-    "poolName": "Eligius",
-    "url": "http://eligius.st/",
-    "searchStrings": [
-      "Eligius"
-    ]
-  },
-  {
-    "poolName": "EclipseMC",
-    "url": "https://eclipsemc.com/",
-    "searchStrings": [
-      "Josh Zerlan was here!",
-      "EclipseMC",
-      "Aluminum Falcon"
-    ]
-  },
-  {
-    "poolName": "GIVE-ME-COINS",
-    "url": "https://give-me-coins.com/",
-    "searchStrings": [
-      "Mined at GIVE-ME-COINS.com"
-    ]
-  },
-  {
-    "poolName": "ghash.io",
-    "url": "https://ghash.io/",
-    "searchStrings": [
-      "ghash.io",
-      "GHash.IO"
-    ]
-  },
-  {
-    "poolName": "HHTT",
-    "url": "http://hhtt.1209k.com/",
-    "searchStrings": [
-      "HHTT"
-    ]
-  },
-  {
-    "poolName": "KNCminer",
-    "url": "https://www.kncminer.com/",
-    "searchStrings": [
-      "KnCMiner"
-    ]
-  },
-  {
-    "poolName": "Megabigpower",
-    "url": "http://megabigpower.com/",
-    "searchStrings": [
-      "megabigpower.com"
-    ]
-  },
-  {
-    "poolName": "MultiCoin",
-    "url": "https://multicoin.co/",
-    "searchStrings": [
-      "MultiCoin.co"
-    ]
-  },
-  {
-    "poolName": "Mt Red",
-    "url": "https://mtred.com/‎",
-    "searchStrings": [
-      "/mtred/"
-    ]
-  },
-  {
-    "poolName": "MaxBTC",
-    "url": "https://www.maxbtc.com",
-    "searchStrings": [
-      "MaxBTC"
-    ]
-  },
-  {
-    "poolName": "NMCbit",
-    "url": "http://nmcbit.com/",
-    "searchStrings": [
-      "nmcbit.com"
-    ]
-  },
-  {
-    "poolName": "ozcoin",
-    "url": "https://ozco.in/",
-    "searchStrings": [
-      "ozco.in",
-      "ozcoin"
-    ]
-  },
-  {
-    "poolName": "Polmine.pl",
-    "url": "https://polmine.pl",
-    "searchStrings": [
-      "by polmine.pl"
-    ]
-  },
-  {
-    "poolName": "simplecoin",
-    "url": "http://simplecoin.us/",
-    "searchStrings": [
-      "simplecoin.us ftw"
-    ]
-  },
-  {
-    "poolName": "SlushPool",
-    "url": "https://slushpool.com/",
-    "searchStrings": [
-      "/slush/"
-    ]
-  },
-  {
-    "poolName": "TripleMining",
-    "url": "https://www.triplemining.com/",
-    "searchStrings": [
-      "Triplemining.com"
-    ]
-  },
-  {
-    "poolName": "wizkid057",
-    "url": "http://wizkid057.com/btc",
-    "searchStrings": [
-      "wizkid057"
-    ]
-  },
-  {
-    "poolName": "Yourbtc.net",
-    "url": "http://yourbtc.net/",
-    "searchStrings": [
-      "yourbtc.net"
-    ]
-  },
-  {
-    "poolName": "BTCChina Pool",
-    "url": "https://pool.btcchina.com/",
-    "searchStrings": [
-      "BTCChina Pool",
-      "btcchina.com"
-    ]
-  },
-  {
-    "poolName":"BTCC Pool",
-    "url":"https://pool.btcc.com/",
-    "searchStrings":[
-      "/BTCC/"
-    ]
-  }
+   {
+      "poolName":"50BTC",
+      "url":"https://50btc.com/",
+      "searchStrings":[
+         "50BTC.com",
+         "50btc.com"
+      ]
+   },
+   {
+      "poolName":"175btc",
+      "url":"http://www.175btc.com/",
+      "searchStrings":[
+         "Mined By 175btc.com"
+      ]
+   },
+   {
+      "poolName":"ASICminer",
+      "url":"https://bitcointalk.org/index.php?topic=99497.0",
+      "searchStrings":[
+         "Mined By ASICMiner"
+      ]
+   },
+   {
+      "poolName":"AntMiner",
+      "url":"https://bitmaintech.com/",
+      "searchStrings":[
+         "AntPool"
+      ]
+   },
+   {
+      "poolName":"agentD",
+      "url":"http://",
+      "searchStrings":[
+         "agentD"
+      ]
+   },
+   {
+      "poolName":"Bitfury",
+      "url":"http://bitfury.org/",
+      "searchStrings":[
+         "2av0id51pct"
+      ]
+   },
+   {
+      "poolName":"BitMinter",
+      "url":"https://bitminter.com/",
+      "searchStrings":[
+         "BitMinter"
+      ]
+   },
+   {
+      "poolName":"Bitparking",
+      "url":"http://bitparking.com/",
+      "searchStrings":[
+         "bitparking"
+      ]
+   },
+   {
+      "poolName":"BTC Guild",
+      "url":"https://www.btcguild.com/",
+      "searchStrings":[
+         "Mined by BTC Guild",
+         "BTC Guild"
+      ]
+   },
+   {
+      "poolName":"bcpool.io",
+      "url":"https://bcpool.io/",
+      "searchStrings":[
+         "bcpool"
+      ]
+   },
+   {
+      "poolName":"Discus Fish",
+      "url":"http://f2pool.com/",
+      "searchStrings":[
+         "七彩神仙鱼",
+         "Made in China",
+         "Mined by user"
+      ]
+   },
+   {
+      "poolName":"Discus Fish Solo",
+      "url":"http://f2pool.com/",
+      "searchStrings":[
+         "For Pierce and Paul"
+      ]
+   },
+   {
+      "poolName":"Cointerra",
+      "url":"http://cointerra.com/",
+      "searchStrings":[
+         "cointerra"
+      ]
+   },
+   {
+      "poolName":"Eligius",
+      "url":"http://eligius.st/",
+      "searchStrings":[
+         "Eligius"
+      ]
+   },
+   {
+      "poolName":"EclipseMC",
+      "url":"https://eclipsemc.com/",
+      "searchStrings":[
+         "Josh Zerlan was here!",
+         "EclipseMC",
+         "Aluminum Falcon"
+      ]
+   },
+   {
+      "poolName":"GIVE-ME-COINS",
+      "url":"https://give-me-coins.com/",
+      "searchStrings":[
+         "Mined at GIVE-ME-COINS.com",
+         "VucxQVGM3YWbdwTWS4YcRTm9tLEqquGn6u",
+         "VhLD4bcWaeX6eQhnJL1tqznBxFbinboFWJ",
+         "VdQyXyqVSyhGu34whjcrULuCNSvv4GSuJf"
+      ]
+   },
+   {
+      "poolName":"ghash.io",
+      "url":"https://ghash.io/",
+      "searchStrings":[
+         "ghash.io",
+         "GHash.IO"
+      ]
+   },
+   {
+      "poolName":"HHTT",
+      "url":"http://hhtt.1209k.com/",
+      "searchStrings":[
+         "HHTT"
+      ]
+   },
+   {
+      "poolName":"KNCminer",
+      "url":"https://www.kncminer.com/",
+      "searchStrings":[
+         "KnCMiner"
+      ]
+   },
+   {
+      "poolName":"Megabigpower",
+      "url":"http://megabigpower.com/",
+      "searchStrings":[
+         "megabigpower.com"
+      ]
+   },
+   {
+      "poolName":"MultiCoin",
+      "url":"https://multicoin.co/",
+      "searchStrings":[
+         "MultiCoin.co"
+      ]
+   },
+   {
+      "poolName":"Mt Red",
+      "url":"https://mtred.com/‎",
+      "searchStrings":[
+         "/mtred/"
+      ]
+   },
+   {
+      "poolName":"MaxBTC",
+      "url":"https://www.maxbtc.com",
+      "searchStrings":[
+         "MaxBTC"
+      ]
+   },
+    {
+      "poolName":"NMCbit",
+      "url":"http://nmcbit.com/",
+      "searchStrings":[
+         "nmcbit.com"
+      ]
+   },
+   {
+      "poolName":"ozcoin",
+      "url":"https://ozco.in/",
+      "searchStrings":[
+         "ozco.in",
+         "ozcoin"
+      ]
+   },
+   {
+      "poolName":"Polmine.pl",
+      "url":"https://polmine.pl/‎",
+      "searchStrings":[
+         "by polmine.pl"
+      ]
+   },
+   {
+      "poolName":"simplecoin",
+      "url":"http://simplecoin.us/",
+      "searchStrings":[
+         "simplecoin.us ftw"
+      ]
+   },
+   {
+      "poolName":"Slush",
+      "url":"https://mining.bitcoin.cz/",
+      "searchStrings":[
+         "slush"
+      ]
+   },
+   {
+      "poolName":"TripleMining",
+      "url":"https://www.triplemining.com/",
+      "searchStrings":[
+         "Triplemining.com"
+      ]
+   },
+   {
+      "poolName":"wizkid057",
+      "url":"http://wizkid057.com/btc",
+      "searchStrings":[
+         "wizkid057"
+      ]
+   },
+   {
+      "poolName":"Yourbtc.net",
+      "url":"http://yourbtc.net/",
+      "searchStrings":[
+         "yourbtc.net"
+      ]
+   },
+   {
+      "poolName":"1GH",
+      "url":"http://via.1gh.com/",
+      "searchStrings":[
+         "Vn7fUaShWbUVtUmQxYY31j6qq1gRkJPNcN"
+      ]
+   },
+   {
+      "poolName":"Minerpools",
+      "url":"http://via.minerpools.com/",
+      "searchStrings":[
+         "VsGEHZuweqrSpqGZu7r67np6oZ8VhnugZp",
+         "VweqHgSt8K4VKJxVmczgpgLCWsf1q1E2w9"
+      ]
+   },
+   {
+      "poolName":"minep.it",
+      "url":"https://www.minep.it/pool/VIA/",
+      "searchStrings":[
+         "VmkyKgGBWDpcnFCtw8rvcYqg8xr7U4Ubzx"
+      ]
+   },
+   {
+      "poolName":"SuchPool",
+      "url":"http://suchpool.pw/via/",
+      "searchStrings":[
+         "Vn5maEzzZNPQ85rKFAgACRW98oiDtmMumG"
+      ]
+   },
+   {
+      "poolName":"The Blocks Factory",
+      "url":"http://via.theblocksfactory.com",
+      "searchStrings":[
+         "VqSJ4oxygqqZquXXhX5jwCWFHhH8xAm2mV"
+      ]
+   },
+   {
+      "poolName":"xhash.net",
+      "url":"http://xhash.net",
+      "searchStrings":[
+         "VoNLjt6Zz8AfnNMDASPmtHEjS962uB4Wwn"
+      ]
+   },
+   {
+      "poolName":"oominoo",
+      "url":"http://via.oominoo.com",
+      "searchStrings":[
+         "tUsHqwvaov4iYj3RZVwLnSrBaEoU3HrojT",
+         "VqpU8HTwjGq1r16rP27MTrfZGzeHUQVKKM"
+      ]
+   },
+   {
+      "poolName":"hashhot.com",
+      "url":"http://via.hashhot.com",
+      "searchStrings":[
+         "Vb2StMdQWMLeD7ZmVkPaYM3tRsj2Yuk1iH"
+      ]
+   },
+   {
+      "poolName":"p2pool",
+      "url":"http://via.altmine.net/static/",
+      "searchStrings":[
+         "Vbf37QvmLJTDN233S9cba3ACXY94hNpD7b"
+      ]
+   },
+   {
+      "poolName":"WafflePool",
+      "url":"http://wafflepool.com/stats/scrypt",
+      "searchStrings":[
+         "Vj6duks2hDnYqcEn4FXhip3Nzv2cqLnaWB"
+      ]
+   },
+   {
+      "poolName":"FastMiner",
+      "url":"http://fastminerltc.cloudapp.net:8080",
+      "searchStrings":[
+         "VuizGV78q54ddRoqXcbP8G8xoMJ9WjrfKB"
+      ]
+   },
+   {
+      "poolName":"CoinMinePW",
+      "url":"http://www.coinmine.pw/poolinfo.php?pool=ViaCoin%20(VIA)%20mining%20pool&coinid=96",
+      "searchStrings":[
+         "VpBjYZYAaVLRzux66uWEfP4kGwEvVvY25z"
+      ]
+   },
+   {
+      "poolName":"Trade My Bit",
+      "url":"https://pool.trademybit.com/pools/VIA",
+      "searchStrings":[
+         "Vv6N3YeXxf5Z5ry2acL8WBivH2VZV32Tok"
+      ]
+   },
+   {
+      "poolName":"multipool.us",
+      "url":"https://www.multipool.us/",
+      "searchStrings":[
+         "VtEbaRfTd5embvJQSaQwh37WZLYKuNwE9A"
+      ]
+   },
+   {
+      "poolName":"bitops.me",
+      "url":"http://via.bitops.me/",
+      "searchStrings":[
+         "VuHoMzqxrpR1mEW17DfuSMUaZBun17Qf6w"
+      ]
+   },
+   {
+      "poolName":"ipoMiner",
+      "url":"https://www.ipominer.com/",
+      "searchStrings":[
+         "VdjHir4ZECuf9s599P2143Qg59aaZVmgeu"
+      ]
+   },
+   {
+      "poolName":"Coinking",
+      "url":"https://coinking.io/",
+      "searchStrings":[
+         "VkASzdAqVcRFsFLbNkfv9VXLLxWFoAdS3r"
+      ]
+   },
+   {
+      "poolName":"MP-Hostiing",
+      "url":"http://www.mp-hosting.co.uk/",
+      "searchStrings":[
+         "VdDkd3vJJttjwWrQkKrBJA4LNLaVfFsEGr"
+      ]
+   },
+   {
+      "poolName":"Hash-to-coins",
+      "url":"https://hash-to-coins.com/",
+      "searchStrings":[
+         "VdqgeaWwxCcwgdLEzpQtQG7Yqzn59QBe5r"
+      ]
+   },
+   {
+      "poolName":"Lifeforce",
+      "url":"http://via.lifeforce.info/",
+      "searchStrings":[
+         "VhMb2CiKGYFo2epWr1fFbCLmTrrLi9eRso"
+      ]
+   },
+   {
+      "poolName":"BeMining",
+      "url":"http://bemining.net/",
+      "searchStrings":[
+         "Vc53SSSemoi1Jrg2J4kp11oercBMyhtTt8",
+         "VtPEyctAp4gq6oeqMjrVu8TXkQFRah6her",
+         "VnWvLqP51MMcivLZtMZCA8ofHNUHhfbKL6"
+      ]
+   },
+   {
+      "poolName":"iHash",
+      "url":"http://ihash.co/",
+      "searchStrings":[
+         "VvWuSGUx2oRUcfejAoiGNtZFthXE5h1nBj"
+      ]
+   },
+   {
+      "poolName":"P2",
+      "url":"#",
+      "searchStrings":[
+         "ViKVaGqnQgJAYQQfG5Hduv14TkMMjCpnqS"
+      ]
+   },
+   {
+      "poolName":"Coinking",
+      "url":"https://coinking.io/",
+      "searchStrings":[
+         "Vj559hasFwHwb9B6YtdfeYupHC2K6s5fWg"
+      ]
+   },
+   {
+      "poolName":"Suprnova",
+      "url":"http://www.suprnova.cc",
+      "searchStrings":[
+         "VkNNvqL5KkKhmh7yFPjBDor5D6nnefBEiN"
+      ]
+   },
+   {
+      "poolName":"SimpleMulti",
+      "url":"http://www.simplemulti.com",
+      "searchStrings":[
+         "Vu4sgaFXe5dHQRmxUKij9L3uAd5ennupcT"
+      ]
+   },
+   {
+      "poolName":"Pandapool",
+      "url":"http://multi.pandapool.info",
+      "searchStrings":[
+         "VeirioC88UDs9h5oM9XNxnKbzzcuR3ZNB4"
+      ]
+   },
+   {
+      "poolName":"LitecoinPool.org",
+      "url":"http://litecoinPool.org",
+      "searchStrings":[
+         "VdD8BCq3Qn4eVr45mZi9eeT9kuDixFGHoz"
+      ]
+   }
 ]
