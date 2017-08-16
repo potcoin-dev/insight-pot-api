@@ -40,7 +40,7 @@
   "bugs": {
     "url": "https://github.com/bitpay/insight-api/issues"
   },
-  "homepage": "https://github.com/bitpay/insight-api",
+  "homepage": "https://github.com/viacoin/insight-via-api",
   "license": "MIT",
   "keywords": [
     "insight",
