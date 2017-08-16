@@ -1,8 +1,8 @@
 {
-  "name": "insight-api",
-  "description": "A Bitcoin blockchain REST and web socket API service for Bitcore Node.",
-  "version": "0.4.3",
-  "repository": "git://github.com/bitpay/insight-api.git",
+  "name": "insight-via-api",
+  "description": "A Viacoin blockchain REST and web socket API service for Bitcore Node.",
+  "version": "0.4.5",
+  "repository": "git://github.com/viacoin/insight-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -46,10 +46,10 @@
     "insight",
     "insight api",
     "blockchain",
-    "bitcoin api",
+    "viacoin api",
     "blockchain api",
     "json",
-    "bitcore"
+    "viacore"
   ],
   "engines": {
     "node": ">=0.12.0"
@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib": "^0.13.7",
-    "bitcore-message": "^1.0.1",
+    "viacore-lib": "^0.13.7",
+    "viacore-message": "^1.0.1",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
