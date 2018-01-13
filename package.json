@@ -1,7 +1,7 @@
 {
   "name": "insight-via-api",
   "description": "A Viacoin blockchain REST and web socket API service for Viacore Node.",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "repository": "git://github.com/viacoin/insight-via-api",
   "contributors": [
     {
