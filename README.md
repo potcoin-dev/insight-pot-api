@@ -1,26 +1,26 @@
 # Insight API
 
-A Viacoin blockchain REST and web socket API service for [Viacore Node](https://github.com/viacoin/viacore-node).
+A Potcoin blockchain REST and web socket API service for [Potcore Node](https://github.com/potcoin-dev/potcore-node).
 
-This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/viacoin/insight-via-ui.
+This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/potcoin-dev/insight-pot-ui.
 
 ## Getting Started
 
 ```bashl
-npm install -g viacore-node@latest
-viacore-node create mynode
+npm install -g potcore-node@latest
+potcore-node create mynode
 cd mynode
-viacore-node install insight-api
-viacore-node start
+potcore-node install insight-api
+potcore-node start
 ```
 
 The API endpoints will be available by default at: `http://localhost:3001/insight-api/`
 
 ## Prerequisites
 
-- [Viacore Node 3.x](https://github.com/viacoin/viacore-node)
+- [Potcore Node 3.x](https://github.com/potcoin-dev/potcore-node)
 
-**Note:** You can use an existing Viacoin data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` needs to be set to true in `bitcoin.conf`, as well as a few other additional fields.
+**Note:** You can use an existing Potcoin data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` needs to be set to true in `bitcoin.conf`, as well as a few other additional fields.
 
 ## Notes on Upgrading from v0.3
 

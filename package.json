@@ -1,8 +1,8 @@
 {
-  "name": "insight-via-api",
-  "description": "A Viacoin blockchain REST and web socket API service for Viacore Node.",
+  "name": "insight-pot-api",
+  "description": "A Potcoin blockchain REST and web socket API service for Potcore Node.",
   "version": "0.4.7",
-  "repository": "git://github.com/viacoin/insight-via-api",
+  "repository": "git://github.com/potcoin-dev/insight-pot-api",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,19 +38,19 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/bitpay/insight-api/issues"
+    "url": "https://github.com/potcoin-dev/insight-pot-api/issues"
   },
-  "homepage": "https://github.com/viacoin/insight-via-api",
+  "homepage": "https://github.com/potcoin-dev/insight-pot-api",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "viacoin api",
+    "potcoin api",
     "blockchain api",
     "json",
-    "viacoin",
-    "viacore"
+    "potcoin",
+    "potcore"
   ],
   "engines": {
     "node": ">=0.12.0"
@@ -62,8 +62,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "viacore-lib": "^0.14.1",
-    "viacore-message": "^1.0.3",
+    "potcore-lib": "^0.14.1",
+    "potcore-message": "^1.0.3",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
